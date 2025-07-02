@@ -206,7 +206,7 @@ This project is released under the **MIT License**. Feel free to use, modify, an
 AI/ML Engineer | Web & Security Developer
 📧 [jamyasir0534@gmail.com](mailto:jamyasir0534@gmail.com)
 🌐 [Portfolio](https://devsecure.netlify.app)
-🤖 [Hugging Face](https://huggingface.co/jamyasir)
+🤖 [Hugging Face](https://huggingface.co/devxyasir)
 💻 [GitHub](https://github.com/devxyasir)
 
 ---
